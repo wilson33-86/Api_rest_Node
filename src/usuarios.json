@@ -1,0 +1,24 @@
+[
+
+  	
+   {  "id":1,
+      "nombre":"miriam",
+   "apellido":"vargas"
+   },
+
+   { "id":2,
+      "nombre":"yura",
+   "apellido":"suarez"},
+
+   {"id":3,
+      "nombre":"vaneza",
+   "apellido":"tello"},
+
+   {"id":4,
+      "nombre":"pipe",
+   "apellido":"camacho"}
+]
+
+
+
+ 
